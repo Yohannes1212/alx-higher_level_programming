@@ -1,3 +1,0 @@
-#iostrream.h
-int main(){
-}
